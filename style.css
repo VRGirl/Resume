@@ -1,1 +1,13 @@
 background: #74ccd1
+body, html {
+margin-left: 1000px;
+margin-right: 100px;
+margin-bottom: 100px;
+margin-top: 100px;
+}
+h1 {
+    color: #A61C00
+}
+li {
+    color: #A61C00
+}
