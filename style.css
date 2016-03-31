@@ -17,6 +17,14 @@ ul {
     margin: 0;
     background: #888888;
 }
+.nav {
+    padding: 5px 0 5px 25px;
+}
+.nav a {
+    color: mistyrose;
+    text-decoration: none;
+    display: inline;
+}
 h1 {
     padding: 0;
     background: #d36188;
@@ -45,4 +53,8 @@ h5 {
 }
 p {
     padding: 0 100px 0 25px;
+}
+.flowRight {
+	float: right;
+	margin-left: 10px;
 }
