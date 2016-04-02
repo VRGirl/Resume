@@ -1,36 +1,38 @@
 html {
-    background: #d36188
+    background: #eee
 }
 body {
     margin: 100px;
-    background: #00ffff;
-}
-header {
-    padding: 0;
-    border: 0;
-    margin: 0;
     background: #fff;
 }
+
 ul {
     padding: 10;
     border: 0;
     margin: 0;
-    background: #888888;
+    background: #fff;
 }
 .nav {
-    padding: 5px 0 5px 25px;
+    padding: 5px 0 5px 10px;
+    text-decoration: none;
+    list-style-type: none; 
 }
 .nav a {
-    color: mistyrose;
+    color: #A61C00;
     text-decoration: none;
-    display: inline;
 }
 h1 {
     padding: 0;
-    background: #d36188;
-    border: 6px solid #57ACF5;
+    background: #fff;
+    border-bottom: 6px solid #444;
     color: #A61C00;
     font: 42px Georgia, Helvetics, sans-serif;
+}
+.header {
+    padding: 0;
+    border: 0;
+    margin: 0;
+    background: #fff;
 }
 h2 {
     padding: 0 100px 0 10px;
