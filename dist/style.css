@@ -52,6 +52,10 @@ body {
     padding: 0, 10px;
     margin: 0;
 }
+.header h2 {
+    margin-bottom: 5px;
+    color: #A61C00;
+}
 h2 {
     padding: 0;
     margin-top: 0px;
