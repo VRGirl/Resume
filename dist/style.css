@@ -5,7 +5,9 @@ body {
     margin: auto;
     background: #fff;
 }
-
+.main {
+    padding: 0 50px;
+}
 .nav ul {
     padding: 100px;
     border: 0;
@@ -53,7 +55,7 @@ h3 {
     font: Arial, Georgia, sans-serif;
 }
 h4 {
-    padding: 0 100px 0 10px;
+    padding: 0 10px 0 10px;
 }
 .project h4{
     color: #A61C00
@@ -67,7 +69,28 @@ h5 {
 p {
     padding: 0;
 }
-.flowRight {
+.summary {
+    padding: 0 5px 15px 10px;
+}
+.summary img {
 	float: right;
 	margin-left: 10px;
+    padding: 0 10px 0 10px;
+}
+.competencies {
+  padding: 0 10px;
+}
+.competencies h4 {
+  padding: 0;
+    margin: 5px 0;
+}
+.competencies p {
+    padding: 0 5px;
+}
+.education h4 {
+    padding: 0;
+    margin: 5px 0;
+}
+.education p {
+  margin: 5px 10px;
 }
