@@ -55,6 +55,9 @@ h3 {
 h4 {
     padding: 0 100px 0 10px;
 }
+.project h4{
+    color: #A61C00
+}
 h5 {
     padding: 0;
     border: 0;
