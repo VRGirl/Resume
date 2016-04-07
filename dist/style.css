@@ -37,12 +37,9 @@ body {
     text-align: center;
 }
 .header h1 {
-    padding-left: 0;
-    margin: 0 20%;
-    background: #fff;
-    border-bottom: 6px solid #444;
+    margin-top: 0;
+    margin-bottom: 5px;
     color: #A61C00;
-    font: 42px Georgia, Helvetics, sans-serif;
 }
 .header img {
     padding-top: 10px; 
@@ -51,10 +48,6 @@ body {
 .header p {
     padding: 0, 10px;
     margin: 0;
-}
-.header h2 {
-    margin-bottom: 5px;
-    color: #A61C00;
 }
 h2 {
     padding: 0;
@@ -71,7 +64,78 @@ h4 {
     padding: 0 10px 0 10px;
 }
 .project h4{
+    padding: 0;
     color: #A61C00
+}  
+.summary {
+    padding: 0 5px 15px 10px;
+}
+.summary h2 {
+    margin-bottom: 5px;
+    color: #A61C00;
+}
+.image-1 {
+    float:right; 
+    margin-left: 10px;
+    padding: 0 10px;
+}
+.competencies {
+  padding: 0 10px;
+}
+.competencies h2 {
+    border-top: 4px solid #444444;
+    margin: 15px 0;
+    padding-top: 10px;
+    color: #A61C00;
+    font: Arial, Georgia, sans-serif;
+}
+.competencies h3 {
+    padding: 0;
+    border: none;
+    color: #444;
+    margin: 5px 0;
+}
+.competencies p {
+    padding: 0 5px;
+}
+.education h2 {
+    border-top: 4px solid #444444;
+    margin: 15px 0 15px 0;
+    padding-top: 10px;
+    color: #A61C00;
+    font: Arial, Georgia, sans-serif;
+}
+.education h3 {
+    padding: 0px;
+    border: none;
+    color: #444;
+}
+.education h4 {
+    padding: 0;
+    margin: 5px 0;
+}
+.education p {
+  margin: 5px 10px;
+}
+.experience h2 {
+    border-top: 4px solid #444;
+    margin: 15px 0 15px 0;
+    padding-top: 10px;
+    color: #A61C00;
+    font: Arial, Georgia, sans-serif;
+}
+.experience h3 {
+    padding: 0;
+    border: none;
+    color: #444;
+}
+.overview h3 {
+    border-top: none;
+    border-bottom: 4px solid #444;
+    margin: 15px 0 15px 0;
+    padding-top: 10px;
+    color: #A61C00;
+    font: Arial, Georgia, sans-serif;
 }
 h5 {
     padding: 0;
@@ -82,28 +146,4 @@ h5 {
 p {
     padding: 0;
 }
-.summary {
-    padding: 0 5px 15px 10px;
-}
-.summary img {
-	float: right;
-	margin-left: 10px;
-    padding: 0 10px 0 10px;
-}
-.competencies {
-  padding: 0 10px;
-}
-.competencies h4 {
-  padding: 0;
-    margin: 5px 0;
-}
-.competencies p {
-    padding: 0 5px;
-}
-.education h4 {
-    padding: 0;
-    margin: 5px 0;
-}
-.education p {
-  margin: 5px 10px;
-}
+
