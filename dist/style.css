@@ -79,7 +79,6 @@ figcaption {
     font-size: 12px;
 }
 .competencies h2 {
-    border-top: 4px solid #444444;
     margin: 15px 0;
     padding-top: 10px;
     color: #A61C00;
@@ -96,7 +95,7 @@ figcaption {
 }
 .education h2 {
     border-top: 4px solid #444444;
-    margin: 15px 0 15px 0;
+    margin: 10px 0 15px 0;
     padding-top: 10px;
     color: #A61C00;
     font: Arial, Georgia, sans-serif;
@@ -141,4 +140,15 @@ footer {
     padding: 0 20px;
     color: burlywood;
 }
-
+aside {
+  float: left;
+    padding-right: 21px;
+    padding-bottom: 180px;
+    margin: 10px;
+    border-right: solid 4px #444;
+}
+aside h2 {
+    color: #A61C00;
+    font: Arial, Georgia, sans-serif;
+    text-align: center;
+}
