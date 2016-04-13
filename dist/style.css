@@ -21,7 +21,7 @@ body, footer {
     padding: 0 20px;
     margin: 10px;
 }
-.nav a {
+a {
     color: #A61C00;
     text-decoration: none;
 }
