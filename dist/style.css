@@ -134,6 +134,22 @@ figcaption {
     border-bottom: 4px solid #444;
     padding-bottom: 10px;
 }
+.awards h2{
+    border-top: 4px solid #444;
+    margin: 15px 0 15px 0;
+    padding-top: 10px;
+    color: #A61C00;
+    font: Arial, Georgia, sans-serif;
+}
+.awards h3 {
+    padding: 0;
+    border: none;
+    color: #444;
+}
+.awards p {
+    border-bottom: 4px solid #444;
+    padding-bottom: 10px;
+}
 footer {
     float: right;
     margin: 10px;
